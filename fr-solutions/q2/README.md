@@ -1,10 +1,11 @@
 ##This question is about...
-
+record the score for the team.
 
 ##Struggles with this question...
-
+how to keep add if the team is win, and how to swich the team if team lost the turn.
 
 ##Prior expereiences that helped...
-
+try to use boolean and if to help.
 
 ##What I learned by doing this question...
+the logic of the way to use boolean.
