@@ -2,9 +2,10 @@
 feeder food for bird and how many food does one day bird take. and also there is 5 persent the bear will come to eat.
 
 ##Struggles with this question...
-
+how to identify the five percent for bear and 95 persent for bird.
 
 ##Prior expereiences that helped...
-
+try to use Math.random() this method to identify 5 and 95 persent.
 
 ##What I learned by doing this question...
+how to use Math.random()
