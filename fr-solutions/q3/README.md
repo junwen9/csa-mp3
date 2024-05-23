@@ -1,10 +1,11 @@
 ##This question is about...
-
+This question is check every string in the list, and if the string in the begin have the same string letter as target, then delete the the target in the string and return the rest string.
 
 ##Struggles with this question...
-
+how to indentify if this string is include the target in the begin and what if it is include how can i delete the begin part and store the rest part.
 
 ##Prior expereiences that helped...
-
+use the indexof, if the the the string indexof is same letter as the target and then we just add from the target length to the end.
 
 ##What I learned by doing this question...
+another way to to use indexof and how to return the answer correct.
